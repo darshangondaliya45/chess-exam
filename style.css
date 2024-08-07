@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+.chess{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+.box{
+    border: 1px solid #895129;
+    width: 70px;
+    height: 70px;
+    margin: -1.8px;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+
+}
+.black{
+    background-color: #895129;
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+  margin: 0;
+}
